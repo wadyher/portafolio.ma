@@ -1,7 +1,7 @@
 /* Utilidades */
 .u-title{
-    border-bottom: 2px dashed #00DBFF;
-    color: #00DBFF;
+    border-bottom: 2px dashed #5a260e;
+    color: #5a260e;
     font-weight: 400;
     padding-bottom: .5em;
     text-align: center;
@@ -16,7 +16,7 @@
 
 /* MainMenu */
 .MainMenu{
-    background: #1E1E1E;
+    background: #5a260e;
     height: 3.75em;
     left:0;
     position: fixed;
@@ -81,7 +81,7 @@
 }
 
 .Profile-link{
-    background-color: orange;
+    background-color: #5a260e;
     border-radius: 1.5em;
     color: white;
     padding: .5em 1em;
